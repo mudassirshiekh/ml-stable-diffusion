@@ -1,4 +1,5 @@
 # Core ML Stable Diffusion
+#Mudassir Alam
 
 Run Stable Diffusion on Apple Silicon with Core ML
 
